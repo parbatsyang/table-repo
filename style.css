@@ -1,0 +1,19 @@
+.container{
+    padding-left: 2px;
+    padding-top: 10px;
+    padding-right: 2px;
+    
+}
+table{
+    width: 100%;
+   
+}
+#table-header{
+    background-color: green;
+}
+.table-element{
+    background-color: yellow;
+}
+.element{
+    text-align: justify;
+}
